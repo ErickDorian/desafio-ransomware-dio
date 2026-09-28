@@ -18,6 +18,31 @@ Este código é **apenas para fins educacionais**, visando entender o funcioname
 - Nenhum dado pessoal incluído
 - Código adaptado para aprendizado sem riscos
 
+## Evidências da Execução
+
+### 1. Arquivo modelo a ser criptografado
+Teste.txt com uma mensagem secreta:
+
+![Teste.txt](./capturas/Arquivo_teste.png)
+
+---
+
+### 2. Criptografia em Execução
+Terminal executando o criptografador:
+
+![Execução do encrypter.py](./capturas/Criptografando_arquivo.png)
+
+Arquivo criptografado — conteúdo protegido e ilegível:
+
+![Arquivo criptografado aberto](./capturas/Arquivo_criptografado.png)
+
+---
+
+### 3. Descriptografia e Recuperação
+Execução do descriptografador:
+
+![Execução do decrypter.py](./capturas/Arquivo_descriptografado.png)
+
 ## Como Usar
 ```bash
 pip install pyaes
